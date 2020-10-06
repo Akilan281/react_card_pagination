@@ -1,0 +1,35 @@
+.body{
+/* background: #005aa7; */
+}
+
+.header{
+    background-color: rgb(124, 219, 183);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5{
+    margin: 0px!important;
+}
+.card{
+    width: 30rem;
+    margin-top: 20px;
+    border-radius: 3px;
+   
+}
+.page-navigation-wrap{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.header-title{
+    color: white;
+}
+
+.cardss{
+    display: flex;
+    justify-content: center;
+}
